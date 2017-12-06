@@ -1,4 +1,10 @@
 asdfasdfsdf
 asdfsdcxs
+<<<<<<< HEAD
 
 sdf
+=======
+>>>>>>> 73783a2196a9889666d60de74101803583a167c4
+
+
+asd
